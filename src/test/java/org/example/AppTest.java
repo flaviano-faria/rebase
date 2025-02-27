@@ -38,8 +38,8 @@ public class AppTest
 
     public void testAppMasterNewFt()
     {
-        int x = 10;
-        int y = 23;
+        int x = 100;
+        int y = 239;
         assertTrue( true );
     }
 }
