@@ -39,7 +39,7 @@ public class AppTest
     public void testAppMasterNewFt()
     {
         int x = 1;
-
+        int y = 23;
         assertTrue( true );
     }
 }
