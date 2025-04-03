@@ -1,2 +1,2 @@
 Lab to practice rebase
-master 2
+master_2
